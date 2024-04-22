@@ -1,0 +1,10 @@
+# Fundamentals
+-   Write a __setitem__ to change elements in the array at a specific index
+-   Write a __setitem__ to change elements in the array at slices
+-   Write a constructor to take in a list and create a Matrix out of it
+-   Write an __add__ function to add two Matrix objects element-wise w/o broadcasting for now
+-   Write a __sub__ function to subtract two Matrix objects element-wise
+-   Write a __div__ function to divide two Matrix objects element-wise
+
+# Secondary
+-   Add bounds checking for all the get and set operations
